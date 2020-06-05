@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.web\\itlearn.web.csproj": {}
+    "E:\\Projects\\itlearn\\itlearn.web\\itlearn.web.csproj": {}
   },
   "projects": {
-    "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\itlearn.bll.csproj": {
+    "E:\\Projects\\itlearn\\itlearn.bll\\itlearn.bll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\itlearn.bll.csproj",
+        "projectUniqueName": "E:\\Projects\\itlearn\\itlearn.bll\\itlearn.bll.csproj",
         "projectName": "itlearn.bll",
-        "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\itlearn.bll.csproj",
-        "packagesPath": "C:\\Users\\EPapk\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\obj\\",
+        "projectPath": "E:\\Projects\\itlearn\\itlearn.bll\\itlearn.bll.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\itlearn\\itlearn.bll\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EPapk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -28,11 +33,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.dal\\itlearn.dal.csproj": {
-                "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.dal\\itlearn.dal.csproj"
+              "E:\\Projects\\itlearn\\itlearn.dal\\itlearn.dal.csproj": {
+                "projectPath": "E:\\Projects\\itlearn\\itlearn.dal\\itlearn.dal.csproj"
               },
-              "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj": {
-                "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj"
+              "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj": {
+                "projectPath": "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj"
               }
             }
           }
@@ -55,27 +60,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.dal\\itlearn.dal.csproj": {
+    "E:\\Projects\\itlearn\\itlearn.dal\\itlearn.dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.dal\\itlearn.dal.csproj",
+        "projectUniqueName": "E:\\Projects\\itlearn\\itlearn.dal\\itlearn.dal.csproj",
         "projectName": "itlearn.dal",
-        "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.dal\\itlearn.dal.csproj",
-        "packagesPath": "C:\\Users\\EPapk\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.dal\\obj\\",
+        "projectPath": "E:\\Projects\\itlearn\\itlearn.dal\\itlearn.dal.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\itlearn\\itlearn.dal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EPapk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -124,27 +140,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj": {
+    "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj",
+        "projectUniqueName": "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj",
         "projectName": "itlearn.model",
-        "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj",
-        "packagesPath": "C:\\Users\\EPapk\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\obj\\",
+        "projectPath": "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\itlearn\\itlearn.model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EPapk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -183,27 +210,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.web\\itlearn.web.csproj": {
+    "E:\\Projects\\itlearn\\itlearn.web\\itlearn.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.web\\itlearn.web.csproj",
+        "projectUniqueName": "E:\\Projects\\itlearn\\itlearn.web\\itlearn.web.csproj",
         "projectName": "itlearn.web",
-        "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.web\\itlearn.web.csproj",
-        "packagesPath": "C:\\Users\\EPapk\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.web\\obj\\",
+        "projectPath": "E:\\Projects\\itlearn\\itlearn.web\\itlearn.web.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\itlearn\\itlearn.web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EPapk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -216,11 +254,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\itlearn.bll.csproj": {
-                "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\itlearn.bll.csproj"
+              "E:\\Projects\\itlearn\\itlearn.bll\\itlearn.bll.csproj": {
+                "projectPath": "E:\\Projects\\itlearn\\itlearn.bll\\itlearn.bll.csproj"
               },
-              "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj": {
-                "projectPath": "E:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.model\\itlearn.model.csproj"
+              "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj": {
+                "projectPath": "E:\\Projects\\itlearn\\itlearn.model\\itlearn.model.csproj"
               }
             }
           }
@@ -259,6 +297,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -267,7 +311,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

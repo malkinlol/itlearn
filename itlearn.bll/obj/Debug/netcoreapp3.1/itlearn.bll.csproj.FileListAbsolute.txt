@@ -77,3 +77,17 @@ E:\New folder\qwe\qwe\qwe\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bl
 E:\New folder\qwe\qwe\qwe\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.csproj.CopyComplete
 E:\New folder\qwe\qwe\qwe\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.dll
 E:\New folder\qwe\qwe\qwe\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.pdb
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.bll.deps.json
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\Projects\itlearn\itlearn.bll\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.csprojAssemblyReference.cache
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.AssemblyInfoInputs.cache
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.AssemblyInfo.cs
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.csproj.CoreCompileInputs.cache
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.csproj.CopyComplete
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.dll
+E:\Projects\itlearn\itlearn.bll\obj\Debug\netcoreapp3.1\itlearn.bll.pdb

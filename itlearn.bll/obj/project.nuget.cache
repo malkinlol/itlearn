@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VICdFsQ1Frct0Ai2uRnCMK83NtouXb2qbyi7IGmxvilh4jLMJB4QlWM5ofdMoPqiOP4RK4I3V7cD4teAdXcd+w==",
+  "dgSpecHash": "U3aJoh1fgwmM+lYHN/yMMYNijqTHZ2nbe/dl5Q098Ju7bpJRoa+Jh2OwNoPIb/tSnE82AMD+bcR6rVoue0XHRg==",
   "success": true,
-  "projectFilePath": "F:\\New folder\\qwe\\qwe\\qwe\\itlearn\\itlearn.bll\\itlearn.bll.csproj",
+  "projectFilePath": "E:\\Projects\\itlearn\\itlearn.bll\\itlearn.bll.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

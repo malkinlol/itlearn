@@ -47,3 +47,12 @@ E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.
 E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
 E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
 E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+E:\Projects\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+E:\Projects\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+E:\Projects\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+E:\Projects\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csproj.CoreCompileInputs.cache
+E:\Projects\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
