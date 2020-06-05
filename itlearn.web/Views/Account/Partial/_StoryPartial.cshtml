@@ -1,0 +1,71 @@
+﻿@model StoryVM
+@inject IThemeService themeService
+@inject IChapterService chapterService
+@inject ILanguageService languageService
+@{
+    var theme = await themeService.GetById(Model.ThemeId);
+    var chapter = await chapterService.GetById(theme.ChapterId);
+    var language = await languageService.GetById(chapter.LanguageId);
+
+    var themes = themeService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.ChapterId == chapter.ChapterId)
+        .ToList();
+
+    var index = themes.FindIndex(x => x.ThemeId == theme.ThemeId);
+}
+
+<style>
+    .custom-card:hover {
+        border-bottom: solid 3px #6a4dcb;
+    }
+
+    .label-custom {
+        background-color: #6a4dcb;
+        color: white;
+        border-radius: 15px;
+        padding: 0px 6px;
+    }
+</style>
+
+<div class="custom-card card w-100 mt-3 mb-3 ml-5 mr-5 shadow">
+    <div class="modal-header" style="background: none;">
+        <h2>@language.Name</h2>
+
+        <button type="button" data-toggle="modal" data-target="#deleteStoryModal-@Model.StoryId" class="close" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">
+            <a href="/Home/Theme?themeId=@theme.ThemeId&index=@index&chapterId=@theme.ChapterId" style="text-decoration: none;">@theme.Name</a>
+        </h5>
+        <p class="card-text">@theme.MiniDescription</p>
+        <div class="form-inline">
+            <label class="label-custom ml-2 mr-2"><b> @theme.UpdatedDate.ToShortDateString() </b></label>
+            <label class="label-custom ml-2 mr-2"><b> @theme.CountReadTime минут</b></label>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="deleteStoryModal-@Model.StoryId" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">@theme.Name</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверены, что хотите удалить историю?</p>
+                @using (Html.BeginForm("DeleteStory", "Account", FormMethod.Post))
+                {
+                    <input type="hidden" value="@Model.StoryId" name="StoryId" />
+
+                    <input type="submit" class="btn btn-danger" value="Удалить" />
+                }
+            </div>
+        </div>
+    </div>
+</div>

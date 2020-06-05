@@ -1,0 +1,271 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject UserManager<User> userManager
+@inject ApplicationContext _context
+@inject ICommentService commentService
+@{
+    var user = await userManager.FindByNameAsync(User.Identity.Name);
+
+    var comments = _context.Comments
+        .Where(x => x.UserId == user.Id)
+        .OrderByDescending(x => x.CommentDate)
+        .ToList();
+
+    var commentsCourse = _context.CourseComments
+        .Where(x => x.UserId == user.Id)
+        .OrderByDescending(x => x.CommentDate)
+        .ToList();
+}
+
+<style>
+    .card:hover {
+        border-bottom: solid 3px #6a4dcb;
+    }
+
+    label {
+        background-color: #6a4dcb;
+        color: white;
+        border-radius: 15px;
+        padding: 0px 6px;
+    }
+</style>
+
+<div class="container mt-5 mb-5">
+    <div class="mt-5 mb-5">
+        <h2>Мои комментарии</h2>
+    </div>
+    <hr />
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <a class="nav-link active" id="post-tab" data-toggle="tab" href="#post" role="tab" aria-controls="post" aria-selected="true">Комментарии к постам</a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link" id="course-tab" data-toggle="tab" href="#course" role="tab" aria-controls="course" aria-selected="false">Комментарии к курсам</a>
+        </li>
+
+    </ul>
+    <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="post" role="tabpanel" aria-labelledby="post-tab">
+            @if (comments.Count != 0)
+            {
+                <div id="listPost" class="mt-4">
+
+                </div>
+
+                <div class="mt-3 mb-3">
+                    <div style="text-align:center;">
+                        <input type="button" class="btn btn-dark btn-lg" id="firstPost" onclick="firstPagePost()" value="Начало" />
+                        <input type="button" class="btn btn-dark btn-lg" id="previousPost" onclick="previousPagePost()" value="Предыдущая" />
+                        <input type="button" class="btn btn-dark btn-lg" id="nextPost" onclick="nextPagePost()" value="Следующая" />
+                        <input type="button" class="btn btn-dark btn-lg" id="lastPost" onclick="lastPagePost()" value="Конец" />
+                    </div>
+                </div>
+            }
+            else
+            {
+                <p style="font-size: 25px;">Пока у вас нет комментариев к постам...</p>
+            }
+        </div>
+        <div class="tab-pane fade" id="course" role="tabpanel" aria-labelledby="course-tab">
+            @if (commentsCourse.Count != 0)
+            {
+                <div id="listCourse" class="mt-4">
+
+                </div>
+
+                <div class="mt-3 mb-3">
+                    <div style="text-align:center;">
+                        <input type="button" class="btn btn-dark btn-lg" id="firstCourse" onclick="firstPageCourse()" value="Начало" />
+                        <input type="button" class="btn btn-dark btn-lg" id="previousCourse" onclick="previousPageCourse()" value="Предыдущая" />
+                        <input type="button" class="btn btn-dark btn-lg" id="nextCourse" onclick="nextPageCourse()" value="Следующая" />
+                        <input type="button" class="btn btn-dark btn-lg" id="lastCourse" onclick="lastPageCourse()" value="Конец" />
+                    </div>
+                </div>
+            }
+            else
+            {
+                <p style="font-size: 25px;">Пока у вас нет комментариев к курсам...</p>
+            }
+        </div>
+    </div>
+
+</div>
+
+
+
+<script>
+    var listPost = @Html.Raw(Json.Serialize(comments));
+    var pageListPost = new Array();
+    var currentPagePost = 1;
+    var numberPerPagePost = 5;
+    var numberOfPagesPost = 0;
+
+    function makeListPost() {
+        numberOfPagesPost = getNumberOfPagesPost();
+    }
+
+    function getNumberOfPagesPost() {
+        return Math.ceil(@comments.Count / numberPerPagePost);
+    }
+
+    function nextPagePost() {
+        currentPagePost += 1;
+        loadListPost();
+    }
+
+    function previousPagePost() {
+        currentPagePost -= 1;
+        loadListPost();
+    }
+
+    function firstPagePost() {
+        currentPagePost = 1;
+        loadListPost();
+    }
+
+    function lastPagePost() {
+        currentPagePost = numberOfPagesPost;
+        loadListPost();
+    }
+
+    function loadListPost() {
+        var beginPost = ((currentPagePost - 1) * numberPerPagePost);
+        var endPost = beginPost + numberPerPagePost;
+
+        pageListPost = listPost.slice(beginPost, endPost);
+        drawListPost();
+        checkPost();
+    }
+
+    function drawListPost() {
+        console.log('1');
+        //document.getElementById("listPost").innerHTML = "";
+        for (r = 0; r < pageListPost.length; r++) {
+            console.log(pageListPost[r]);
+            let date = new Date(pageListPost[r].commentDate);
+            var card =
+                "<div class='card w-100 mt-3 mb-3 shadow'>" +
+                    "<div class='modal-header' style='background: none;'>" +
+                        "<a href='/Comment/Delete?commentId=" + pageListPost[r].commentId + "' class='close' data-dismiss='modal' aria-label='Close'>" +
+                            "<span aria-hidden='true'>&times;</span>" +
+                        "</a>" +
+                    "</div>" +
+                    "<div class='card-body'>" +
+                        "<h5 class='card-title'>" +
+                        "<a href='/Post/Detail?postId=" + pageListPost[r].postId +"' style='text-decoration: none;'>Перейти к посту</a></h5>" +
+                        "<p class='card-text'>" + pageListPost[r].message + "</p>" +
+                        "<div class='form-inline mt-3'>" +
+                            "<label class='ml-2 mr-2'><b>" + date.toLocaleDateString() + "</b></label>" +
+                        "</div>" +
+                    "</div>" +
+                "</div>";
+
+            document.getElementById("listPost").innerHTML += card;
+        }
+    }
+
+    function checkPost() {
+        document.getElementById("nextPost").disabled = currentPagePost == numberOfPagesPost ? true : false;
+        document.getElementById("previousPost").disabled = currentPagePost == 1 ? true : false;
+        document.getElementById("firstPost").disabled = currentPagePost == 1 ? true : false;
+        document.getElementById("lastPost").disabled = currentPagePost == numberOfPagesPost ? true : false;
+    }
+
+    function loadPost() {
+        makeListPost();
+        loadListPost();
+    }
+
+    loadPost();
+</script>
+
+
+
+<script>
+    var listCourse = @Html.Raw(Json.Serialize(commentsCourse));
+    var pageListCourse = new Array();
+    var currentPageCourse = 1;
+    var numberPerPageCourse = 5;
+    var numberOfPagesCourse = 0;
+
+    function makeListCourse() {
+        numberOfPagesCourse = getNumberOfPagesCourse();
+    }
+
+    function getNumberOfPagesCourse() {
+        return Math.ceil(@commentsCourse.Count / numberPerPageCourse);
+    }
+
+    function nextPageCourse() {
+        currentPageCourse += 1;
+        loadListCourse();
+    }
+
+    function previousPageCourse() {
+        currentPageCourse -= 1;
+        loadListCourse();
+    }
+
+    function firstPageCourse() {
+        currentPageCourse = 1;
+        loadListCourse();
+    }
+
+    function lastPageCourse() {
+        currentPageCourse = numberOfPagesCourse;
+        loadListCourse();
+    }
+
+    function loadListCourse() {
+        var beginCourse = ((currentPageCourse - 1) * numberPerPageCourse);
+        var endCourse = beginCourse + numberPerPageCourse;
+
+        pageListCourse = listCourse.slice(beginCourse, endCourse);
+        drawListCourse();
+        checkCourse();
+    }
+
+    function drawListCourse() {
+        document.getElementById("listCourse").innerHTML = "";
+        for (r = 0; r < pageListCourse.length; r++) {
+            //console.log(pageListCourse[r]);
+            let date = new Date(pageListCourse[r].commentDate);
+            var card =
+                "<div class='card w-100 mt-3 mb-3 shadow'>" +
+                    "<div class='modal-header' style='background: none;'>" +
+                    "<a href='/Account/DeleteCourseComment?commentId=" + pageListCourse[r].commentId + "' class='close' data-dismiss='modal' aria-label='Close'>" +
+                        "<span aria-hidden='true'>&times;</span>" +
+                    "</a>" +
+                "</div>" +
+                    "<div class='card-body'>" +
+                        "<h5 class='card-title'>" +
+                        "<a href='/Account/ShowCourse?courseId=" + pageListCourse[r].courseId +"' style='text-decoration: none;'>Перейти на курс</a></h5>" +
+                        "<p class='card-text'>" + pageListCourse[r].message + "</p>" +
+                        "<div class='form-inline mt-3'>" +
+                            "<label class='ml-2 mr-2'><b>" + date.toLocaleDateString() + "</b></label>" +
+                        "</div>" +
+                    "</div>" +
+                "</div>";
+
+            document.getElementById("listCourse").innerHTML += card;
+        }
+    }
+
+    function checkCourse() {
+        document.getElementById("nextCourse").disabled = currentPageCourse == numberOfPagesCourse ? true : false;
+        document.getElementById("previousCourse").disabled = currentPageCourse == 1 ? true : false;
+        document.getElementById("firstCourse").disabled = currentPageCourse == 1 ? true : false;
+        document.getElementById("lastCourse").disabled = currentPageCourse == numberOfPagesCourse ? true : false;
+    }
+
+    function loadCourse() {
+        makeListCourse();
+        loadListCourse();
+    }
+
+    loadCourse();
+</script>
+
+

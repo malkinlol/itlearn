@@ -1,0 +1,105 @@
+﻿@model LanguageVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject IChapterService chapterService
+@{
+    var chapters = chapterService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.LanguageId == Model.LanguageId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="alert alert-light mt-2 mb-2">
+                <h2>Описание языка программирования: @Model.Name</h2>
+                <input type="hidden" id="description" value="@Model.Description" />
+                <hr />
+                <a href="/Admin/EditLanguage?languageId=@Model.LanguageId" class="btn btn-warning">Изменить</a>
+                <a class="btn btn-success" href="/Admin/CreateChapter?languageId=@Model.LanguageId">Добавить главу</a>
+                <button type="submit" data-toggle="modal" data-target="#deleteModal" class="btn btn-danger">Удалить</button>
+            </div>
+
+            <div>
+                @if (chapters.Count != 0)
+                {
+                    <ul>
+                        @foreach (ChapterVM chapter in chapters)
+                        {
+                            <li><a href="/Admin/DetailChapter?chapterId=@chapter.ChapterId">@chapter.Name</a></li>
+                        }
+                    </ul>
+                }
+
+            </div>
+
+            <div id="content" class="col-md-12">
+
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+    let editor;
+
+    ClassicEditor
+        .create(document.querySelector('#editor'))
+        .then(newEditor => {
+            editor = newEditor;
+        })
+        .catch(error => {
+            console.error(error);
+        });
+
+    function GetDescription() {
+        const editorData = editor.getData();
+
+
+
+        document.getElementById('description').setAttribute('value', editorData);
+    }
+</script>
+
+<script>
+    window.onload = function () {
+        let data = document.getElementById('description').value;
+             let fixeddata = '';
+        let fixeddata1 = '';
+        let fixeddata2 = '';
+        console.log(data);
+        if (data.includes('oembed')) {
+            fixeddata = data.replace(new RegExp('<oembed url', 'g'), '<iframe src')
+            fixeddata1 = fixeddata.replace(new RegExp("watch\\?v=", 'g'), 'embed/')
+            fixeddata2 = fixeddata1.replace(new RegExp('></oembed', 'g'), ' width="960" height="540" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="video"></iframe');
+        } else {
+            fixeddata2 = data;
+        }
+
+        document.getElementById('content').innerHTML = fixeddata2;
+    };
+</script>
+
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Удаление</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверены, что хотите удалить язык программирования: @Model.Name</p>
+                @using (Html.BeginForm("DeleteLanguage", "Admin", FormMethod.Get))
+                {
+                    <input type="hidden" name="LanguageId" value="@Model.LanguageId" />
+
+                    <input type="submit" class="btn btn-danger" value="Удалить" />
+                }
+            </div>
+        </div>
+    </div>
+</div>

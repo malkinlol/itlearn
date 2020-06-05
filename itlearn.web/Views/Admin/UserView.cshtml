@@ -1,0 +1,62 @@
+﻿@model List<User>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Пользователи</h1>
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Пользователеь</th>
+                                    <th>Время создания</th>
+                                    <th>Подтвержден</th>
+                                    <th>Права доступа</th>
+                                    <th>Удалить</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (User user in Model)
+                                {
+                                    @if (user.Email.Equals("admin@gmail.com"))
+                                    {
+                                        continue;
+                                    }
+                                    <tr>
+                                        <td>@user.UserName</td>
+                                        <td>@user.UserDateCreate.ToShortDateString()</td>
+                                        @if (user.EmailConfirmed)
+                                        {
+                                            <td class="text-success">ПОДТВЕРЖДЕН</td>
+                                        }
+                                        else
+                                        {
+                                            <td class="text-danger">НЕ ПОДТВЕРЖДЕН</td>
+                                        }
+                                        <td>
+                                            <a href="/Admin/EditUserRole?userId=@user.Id" class="btn btn-info">Права доступа</a>
+                                        </td>
+                                        <td>
+                                            <a href="/Admin/DeleteUser?userId=@user.Id" class="btn btn-danger">Удалить</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+
+

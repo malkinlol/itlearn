@@ -1,0 +1,212 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "CourseDetail";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject ApplicationContext _context
+@inject UserManager<User> _userManager
+@{
+    var user = await _userManager.FindByNameAsync(User.Identity.Name);
+
+    var courseLearns = _context.CourseLearn
+        .Where(x => x.CourseId == Model.CourseId)
+        .ToList();
+    var requirments = _context.Requirements
+        .Where(x => x.CourseId == Model.CourseId)
+        .ToList();
+    var courseThemes = _context.CourseThemes
+        .Where(x => x.CourseId == Model.CourseId)
+        .ToList();
+    var adminComments = _context.CourseComments
+        .Where(x => x.isAdmin && x.CourseId == Model.CourseId)
+        .OrderByDescending(x => x.CommentDate)
+        .ToList();
+
+}
+
+<style>
+    .course-link:hover {
+        border-left: 3px solid #ffffff;
+    }
+
+    div.img-container {
+        position: relative
+    }
+
+        div.img-container img {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            border-radius: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+    .dot {
+        height: 50px;
+        width: 50px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 50%;
+        border: 6px solid rgb(255, 255, 255);
+        opacity: 0.7;
+        display: inline-block;
+        position: relative;
+        top: 160px;
+        left: 145px;
+    }
+
+        .dot span {
+            margin: 0;
+            position: absolute;
+            font-size: 18px;
+            top: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+    .lable {
+        font-size: 14px;
+        background: #ad87de;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+
+    .lable-success {
+        font-size: 14px;
+        background: #28ff5a;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+
+    .lable-warning {
+        font-size: 14px;
+        background: #ff6a00;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+</style>
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Детали курса</h1>
+                <br />
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row m-5">
+                        <div class="col-md-12">
+                            <div class="card shadow mt-4" style="background: none; border:none;">
+                                <div class="card-header">
+                                    <h2 class="">@Model.Title</h2>
+                                    <br />
+                                    <p class="text-secondary"><b>Автор: </b>@user.FirstName @user.LastName</p>
+                                </div>
+                                <div class="card-body">
+                                    <div class="mt-2">
+                                        <div>
+                                            <h3>Что вы изучите</h3>
+                                        </div>
+                                        <div>
+                                            <ul>
+                                                @foreach (CourseLearn learn in courseLearns)
+                                                {
+                                                    <li>@learn.Learn</li>
+                                                }
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="mt-2">
+                                        <div>
+                                            <h3>Требования</h3>
+                                        </div>
+                                        <div>
+
+                                            <ul>
+                                                @foreach (Requirement requirement in requirments)
+                                                {
+                                                    <li>@requirement.RequireName</li>
+                                                }
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="mt-2">
+                                        <div>
+                                            <h3>Темы</h3>
+                                        </div>
+                                        <div>
+                                            <ul>
+                                                @foreach (CourseTheme theme in courseThemes)
+                                                {
+                                                    <li>
+                                                        @theme.Title -
+                                                        <a class="text-danger" href="/Admin/CourseThemeDetail?themeId=@theme.CourseThemeId">Детали</a>
+                                                    </li>
+                                                }
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="mt-2">
+                                        <div>
+                                            <h3>Добавить комментарий</h3>
+                                        </div>
+                                        <div>
+                                            <div class="card-body">
+                                                @using (Html.BeginForm("CourseCommentCreate", "Admin", FormMethod.Post))
+                                                {
+                                                    <input type="hidden" name="CourseId" value="@Model.CourseId" />
+                                                    <input type="hidden" name="UserId" value="@user.Id" />
+                                                    <div class="form-group">
+                                                        <textarea class="form-control" name="Message" rows="3"></textarea>
+                                                    </div>
+                                                    <input type="submit" class="btn btn-primary mt-3" value="Отправить" />
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="mt-2">
+                                        <div>
+                                            <h3>Комментарии</h3>
+                                        </div>
+                                        <div>
+                                            @foreach (CourseComment comment in adminComments)
+                                            {
+                                                <div class="card shadow m-5">
+                                                    <div class="card-body">
+                                                        @comment.Message
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <a href="/Admin/CourseCommentDelete?commentId=@comment.CommentId" class="btn btn-danger">Удалить</a>
+                                                    </div>
+                                                </div>
+                                            }
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+
+
+

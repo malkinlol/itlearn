@@ -1,0 +1,221 @@
+﻿@model CourseVM
+@{
+    ViewData["Title"] = "Course";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject UserManager<User> _userManager
+@inject ApplicationContext _context
+
+@{
+    var user = await _userManager.FindByEmailAsync(User.Identity.Name);
+    var level = 1;
+
+    if (user.Experience < 1000)
+        level = 1;
+    else if (user.Experience >= 1000 && user.Experience < 2000)
+        level = 2;
+    else if (user.Experience >= 2000 && user.Experience < 3000)
+        level = 3;
+    else if (user.Experience >= 3000 && user.Experience < 4000)
+        level = 4;
+    else if (user.Experience >= 4000 && user.Experience < 5000)
+        level = 5;
+
+    var categories = await _context.SubcategoryCourses.ToListAsync();
+}
+
+<style>
+    .course-link:hover {
+        border-left: 3px solid #ffffff;
+    }
+
+    div.img-container {
+        position: relative
+    }
+
+        div.img-container img {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            border-radius: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+    .dot {
+        height: 50px;
+        width: 50px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 50%;
+        border: 6px solid rgb(255, 255, 255);
+        opacity: 0.7;
+        display: inline-block;
+        position: relative;
+        top: 160px;
+        left: 145px;
+    }
+
+        .dot span {
+            margin: 0;
+            position: absolute;
+            font-size: 18px;
+            top: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+    .lable {
+        font-size: 14px;
+        background: #ad87de;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3" style="height: 100vh; background-color: #000000; padding-left: 0px; padding-right: 0px;">
+            <div class="list-group " style="background: none;">
+                <div class="img-container list-group-item" style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)), url(/images/default/editprofile.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+        width: 100%;
+        position: relative;
+        margin-top: -1px;
+        border: none;
+    ">
+                    @if (!string.IsNullOrEmpty(user.Avatar))
+                    {
+                        <img src="@Url.Content(user.Avatar)" style="width: 130px; height: 130px;" />
+                    }
+                    else
+                    {
+                        <img src="~/images/default/default-person.svg" style="width: 130px; height: 130px;" />
+                    }
+                    <div>
+                        <span class="dot text-center">
+                            <span style="color: rgb(255, 255, 255)">@level</span>
+                        </span>
+                    </div>
+                </div>
+                <a href="/Account/Course" class=" course-link list-group-item text-white list-group-item-action text-uppercase " style="background: none;">Курсы на изучении</a>
+                <a href="/Account/MyCourse" class="course-link  list-group-item text-white list-group-item-action text-uppercase active" style="background: none; border: 1px solid #ffffff ">Мои курсы</a>
+                <a href="/Account/CompleteCourse" class="course-link  list-group-item text-white list-group-item-action text-uppercase " style="background: none; ">Законченные курсы</a>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="container-fluid">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <p class="display-1" style="font-size: 35px">Создание курса</p>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        @using (Html.BeginForm("CreateCourse", "Account", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                            <input type="hidden" id="description" name="LongDescription" />
+
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label for="title" class="col-sm-3 col-form-label">Заголовок</label>
+                                <div class="col-sm-9">
+                                    <input type="text" class="form-control" id="title" name="Title">
+                                    @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label for="theme" class="col-sm-3 col-form-label">Тема курса</label>
+                                <div class="col-sm-9">
+                                    <select class="form-control" id="theme" name="SubcategoryCourseId">
+                                        <option disabled selected>Выберите тему курса</option>
+                                        @foreach (SubcategoryCourse subcategory in categories)
+                                        {
+                                            <option value="@subcategory.SubcategoryCourseId">@subcategory.Name</option>
+                                        }
+                                    </select>
+                                    @Html.ValidationMessageFor(model => model.SubcategoryCourseId, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label for="avatar" class="col-sm-3 col-form-label">Аватар</label>
+                                <div class="col-sm-9">
+                                    <input type="file" class="form-control" id="avatar" name="uploadedFile">
+                                    @Html.ValidationMessageFor(model => model.Avatar, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label for="level" class="col-sm-3 col-form-label">Уровень сложности</label>
+                                <div class="col-sm-9">
+                                    <select class="form-control" id="level" name="Level">
+                                        <option value="Низкий">Низкий</option>
+                                        <option value="Средний">Средний</option>
+                                        <option value="Высокий">Высокий</option>
+                                    </select>
+                                    @Html.ValidationMessageFor(model => model.Level, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label for="experience" class="col-sm-3 col-form-label">Опыт</label>
+                                <div class="col-sm-9">
+                                    <input type="number" class="form-control" min="1" max="100" id="experience" name="Experience">
+                                    @Html.ValidationMessageFor(model => model.Experience, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label for="shortDesciption" class="col-sm-3 col-form-label">Короткое описание</label>
+                                <div class="col-sm-9">
+                                    <input type="text" class="form-control" id="shortDesciption" name="ShortDesciption">
+                                    @Html.ValidationMessageFor(model => model.ShortDesciption, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group row" style="margin-left: 15px; margin-right: 15px;">
+                                <label class="col-sm-3 col-form-label">Длинное описание</label>
+                                <div class="col-sm-9">
+                                    @Html.ValidationMessageFor(model => model.LongDescription, "", new { @class = "text-danger" })
+                                    <div id="editor" class="editor">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group row float-right" style="margin-left: 15px; margin-right: 15px;">
+                                <div class="text-right">
+                                    <input type="submit" class="button_c" value="Сохранить" onclick="GetDescription()" />
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let editor;
+
+    ClassicEditor
+        .create(document.querySelector('#editor'), {
+            toolbar: ['heading', '|', 'undo', 'redo', 'bold', 'italic', 'bulletedList', 'numberedList']
+        })
+        .then(newEditor => {
+            editor = newEditor;
+        })
+        .catch(error => {
+            console.error(error);
+        });
+
+    function GetDescription() {
+        const editorData = editor.getData();
+
+        document.getElementById('description').setAttribute('value', editorData);
+    }
+</script>

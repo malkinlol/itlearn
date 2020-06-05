@@ -1,0 +1,83 @@
+﻿@model LeaderVM
+@{
+    ViewData["Title"] = "Leaders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style>
+    .card {
+        background-color: #222b3a;
+    }
+</style>
+
+
+<div style="        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)), url(/images/backgrounds/home.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 60vh;
+        width: 100%;
+        position: relative;
+        margin-top: -1px;
+    ">
+    <div class="pt-5 text-center">
+        <h1 class="display-1 text-white" style="font-size: 60px; font-weight: 600">Таблица лидеров</h1>
+    </div>
+    <div class="mt-5">
+        <div class="container p-5" style="background-color: #222b3a">
+            <div class="row">
+                <div class="col-md-6 text-white">
+                    <p style="font-size: 30px;"><b>Рейтинг студентов по уровню</b></p>
+                </div>
+                <div class="col-md-6 text-white">
+                    @using (Html.BeginForm("Leaders", "Account", FormMethod.Get, new { @class = "form-inline my-2 my-lg-0" }))
+                    {
+                        <input class="form-control mr-sm-2 w-75" type="search" name="searchText" placeholder="Студент, страна" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Поиск</button>
+                    }
+                </div>
+            </div>
+            <div class="row mt-5">
+                <table class="table table-striped text-white text-center">
+                    <thead style="font-size: 25px;">
+                        <tr>
+                            <th>Ранг</th>
+                            <th>Email</th>
+                            <th>Курсы</th>
+                            <th>Опыт</th>
+                            <th>Страна</th>
+                        </tr>
+                    </thead>
+                    <tbody style="font-size: 20px;">
+                        @for (int i = 0; i < Model.Users.Count; i++)
+                        {
+                            @if (Model.Users[i].Email.Equals("admin@gmail.com"))
+                            {
+                                continue;
+                            }
+                            <tr>
+                                <td>@(i + 1)</td>
+                                @if (User.Identity.Name.Equals(Model.Users[i].Email))
+                                {
+                                    <td><a class="text-success" style="text-decoration: none;" href="/Account/ShowUserProfile?email=@Model.Users[i].Email">@Model.Users[i].Email</a></td>
+                                }
+                                else
+                                {
+                                    <td><a class="text-white" style="text-decoration: none;" href="/Account/ShowUserProfile?email=@Model.Users[i].Email">@Model.Users[i].Email</a></td>
+
+                                }
+                                <td>@Model.Users[i].CountCourse</td>
+                                <td>@Model.Users[i].Experience</td>
+                                <td>@Model.Users[i].Country</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="height: 2000px;
+        background-color: rgba(0, 0, 0, 1)">
+</div>

@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@inject IQuestionService questionService
+@{
+    var questions = questionService.GetAll()
+        .GetAwaiter().GetResult()
+        .OrderByDescending(x => x.QuestionId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Вопросы</h1>
+                <br />
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        @foreach (QuestionVM question in questions)
+                        {
+                            <div class="col-md-4">
+                                <div class="card card-widget">
+                                    <div class="card-header">
+                                        <div class="user-block">
+                                            <h5>@question.SomeQuestion</h5>
+                                        </div>
+                                        <div class="card-tools">
+                                            <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                                <ion-icon name="remove-circle-outline" class="fas"></ion-icon>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        @if (await questionService.IsCorrectQuestion(question.QuestionId))
+                                        {
+                                            <span>Валидность</span> <input type="checkbox" disabled checked class="ml-3" />
+                                        }
+                                        else
+                                        {
+                                            <span>Валидность</span> <input type="checkbox" disabled class="ml-3" />
+                                        }
+   
+                                    </div>
+                                    <div class="card-footer">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/EditQuestion?questionId=@question.QuestionId" class="btn btn-block btn-info">Изменить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DeleteQuestion?questionId=@question.QuestionId" class="btn btn-block btn-danger">Удалить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DetailQuestion?questionId=@question.QuestionId" class="btn btn-block btn-warning">Детали</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+

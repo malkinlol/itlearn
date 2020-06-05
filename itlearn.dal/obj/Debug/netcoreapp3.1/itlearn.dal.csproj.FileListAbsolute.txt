@@ -1,0 +1,61 @@
+D:\University\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.deps.json
+D:\University\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+D:\University\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfoInputs.cache
+D:\University\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfo.cs
+D:\University\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.json
+D:\University\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.dev.json
+D:\University\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+D:\University\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.dll
+D:\University\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.deps.json
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.json
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.dev.json
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.csprojAssemblyReference.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfoInputs.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfo.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.deps.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.dev.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfoInputs.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfo.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.csprojAssemblyReference.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.deps.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.dev.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.csprojAssemblyReference.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfoInputs.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfo.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.deps.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.dev.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.csprojAssemblyReference.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfoInputs.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfo.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.csproj.CoreCompileInputs.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.genruntimeconfig.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.deps.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.runtimeconfig.dev.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfoInputs.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.AssemblyInfo.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.dal\obj\Debug\netcoreapp3.1\itlearn.dal.csprojAssemblyReference.cache

@@ -1,0 +1,223 @@
+﻿@model ThemeVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject IChapterService chapterService
+@inject ILanguageService languageService
+@inject IThemeService themeService
+@inject ITestService testService
+@{
+    var chapter = await chapterService.GetById(Model.ChapterId);
+
+    var language = await languageService.GetById(chapter.LanguageId);
+
+    var firstTheme = themeService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.LanguageId == language.LanguageId)
+        .FirstOrDefault();
+
+    var isFirstTheme = firstTheme.ThemeId == Model.ThemeId;
+
+    var chapters = chapterService.GetAll()
+     .GetAwaiter().GetResult()
+     .Where(x => x.LanguageId == Model.LanguageId && x.IsEnable)
+     .ToList();
+
+    var tests = testService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.ThemeId == Model.ThemeId && x.IsCorrectTest)
+        .ToList();
+}
+
+<input type="hidden" id="description" value="@Model.Description" />
+
+<div style="height: 100vh; width: 100%;position:relative; background-image: url('/images/backgrounds/languageBg.jpg'); background-repeat: no-repeat; background-size: cover;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 text-white">
+                <div class="mt-5 mb-5">
+                    <nav aria-label="breadcrumb" style="background: none">
+                        <ol class="breadcrumb" style="background: none; font-size: 24px;">
+                            <li class="breadcrumb-item"><a href="/Home/Index" class="text-white">Главная</a></li>
+                            <li class="breadcrumb-item"><a href="/Home/Language?languageId=@language.LanguageId" class="text-white">@language.Name</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Основы</li>
+                        </ol>
+                    </nav>
+                </div>
+                <div class="mt-5 mb-5">
+                    <h1 class="display-3" style="font-weight: 600">@Model.Name</h1>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <p class="text-secondary" style="font-size:20px"><b>Время чтения</b></p>
+                        <p><b>@Model.CountReadTime минут</b></p>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="text-secondary" style="font-size:20px"><b>Опубликована</b></p>
+                        <p><b>@Model.CreatedDate.ToShortDateString()</b></p>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="text-secondary" style="font-size:20px"><b>Изменена</b></p>
+                        <p><b>@Model.UpdatedDate.ToShortDateString()</b></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-9" style="background-color: #ffffff; bottom: 80px; z-index: 100;">
+            <div class="card shadow m-5">
+                <div class="card-body">
+                    <div class="mt-2 mb-4">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            if (!User.Identity.Name.Equals("admin@gmail.com"))
+                            {
+                                <button type="button" data-toggle="modal" data-target="#storyAccountModal" class="btn-custom btn-primary text-white">Остановиться</button>
+                            }
+                        }
+                    </div>
+                    @if (isFirstTheme)
+                    {
+                        <div style="height:350px; width: 100%; background: url(@Url.Content(language.Avatar)) no-repeat center">
+
+                        </div>
+                        <h2 class="mt-2">Начало работы: @language.Name</h2>
+                        <div id="content" class="mt-3">
+
+                        </div>
+                    }
+                    else
+                    {
+                        <div id="content" class="">
+
+                        </div>
+                    }
+                </div>
+            </div>
+            @*<div class="mt-5 ml-5 mb-5">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                    @if (Model.StatusPrevious)
+                    {
+                        <a href="/Home/Theme?themeId=@Model.ThemeId&index=@(Model.Index - 1)&chapterId=@chapter.ChapterId" class="btn-custom btn-primary m-1">Назад</a>
+                    }
+                    <a href="/Home/Language?languageId=@language.LanguageId" class="btn-custom btn-primary m-1">Содержимое</a>
+                    @if (Model.StatusNext)
+                    {
+                        <a href="/Home/Theme?themeId=@Model.ThemeId&index=@(Model.Index + 1)&chapterId=@chapter.ChapterId" class="btn-custom btn-primary m-1">Вперед</a>
+                    }
+                </div>
+            </div>*@
+        </div>
+        <div class="col-md-3">
+            <div class="mt-3">
+                @using (Html.BeginForm("Search", "Home", FormMethod.Get))
+                {
+                    <div class="form-row">
+                        <div class="col-12 col-md-10 mb-2">
+                            <input type="text" class="form-control form-control-lg" name="SearchText" placeholder="Искать...">
+                        </div>
+                        <div class="col-12 col-md-2">
+                            <button type="submit" class="btn btn-block btn-lg btn-primary"><span class="iconify" data-icon="simple-line-icons:magnifier" data-inline="false"></span></button>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="mt-5">
+                <div class="accordion">
+                    @foreach (ChapterVM c in chapters)
+                    {
+                        @await Html.PartialAsync("~/Views/Home/Partial/_ChapterShowPartial.cshtml", c)
+                    }
+                </div>
+            </div>
+            @if (tests.Count != 0)
+            {
+                <div class="mt-5 text-center">
+                    <a href="#tests" class="btn-custom btn-primary">Перейти к тестам</a>
+                </div>
+            }
+        </div>
+    </div>
+    @if (tests.Count != 0)
+    {
+        <hr />
+        <div class="container mb-5" id="tests">
+            <div class="text-center">
+                <h2>Тест</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+
+                </div>
+                <div class="col-md-6">
+                    <div class="col mb-4">
+                        <div class="card shadow">
+                            <div class="card-body">
+                                @*<p class="card-text">@tests[0].Description</p>*@
+                            </div>
+                            <div class="card-footer" style="background:none;">
+                                <a href="/Home/Test?themeId=@Model.ThemeId&testId=@tests[0].TestId" class="btn btn-primary">Перейти</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    }
+</div>
+
+<div class="modal fade" id="storyAccountModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">@Model.Name</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверены, что хотите остановиться на этой теме?</p>
+                @using (Html.BeginForm("Story", "Account", FormMethod.Post))
+                {
+                    <input type="hidden" name="ThemeId" value="@Model.ThemeId" />
+                    <input type="hidden" name="Index" value="@Model.Index" />
+                    <input type="hidden" name="ChapterId" value="@Model.ChapterId" />
+                    <input type="submit" class="btn btn-success" value="Остановиться" />
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let editor;
+
+    ClassicEditor
+        .create(document.querySelector('#editor'))
+        .then(newEditor => {
+            editor = newEditor;
+        })
+        .catch(error => {
+            console.error(error);
+        });
+
+    function GetDescription() {
+        const editorData = editor.getData();
+
+        document.getElementById('description').setAttribute('value', editorData);
+    }
+</script>
+
+<script>
+    window.onload = function () {
+        document.getElementById('content').innerHTML = document.getElementById('description').value;
+    };
+</script>

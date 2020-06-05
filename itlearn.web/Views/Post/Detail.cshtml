@@ -1,0 +1,197 @@
+﻿@model PostVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject ICommentService _commentService
+@inject UserManager<User> _userManager
+
+@{
+    var user = await _userManager.FindByIdAsync(Model.UserId);
+    var name = user.FirstName + " " + user.LastName;
+
+    List<CommentVM> comments = await _commentService.GetByPost(Model.PostId);
+
+    var countComment = comments.Count();
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <h1 class="mt-4">@Model.Title</h1>
+
+            <p class="lead">
+                <b>Автор:</b>
+                <a href="/Account/ShowUserProfile?email=@user.Email">@user.Email</a>
+            </p>
+            <hr>
+            <p><b>Время публикации:</b> @Model.PostDate.ToString("dddd, dd MMMM yyyy").ToUpper()</p>
+            <hr>
+            <img class="img-fluid rounded" src="~/images/backgrounds/post.gif" alt="">
+
+            <hr>
+            <div id="content">
+
+            </div>
+            <hr>
+
+            <!-- Comments Form -->
+            @if (User.Identity.IsAuthenticated)
+            {
+                @if (!User.Identity.Name.Equals("admin@gmail.com"))
+                {
+                    <div class="card my-4">
+                        <h5 class="card-header">Оставить комментарий:</h5>
+                        <div class="card-body">
+                            @using (Html.BeginForm("Create", "Comment", FormMethod.Post))
+                            {
+                                <input type="hidden" name="PostId" value="@Model.PostId" />
+                                <div class="form-group">
+                                    <textarea class="form-control" name="Message" rows="3"></textarea>
+                                </div>
+                                <input type="submit" class="btn btn-primary mt-3" value="Отправить" />
+                            }
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <h3 class="text-warning">
+                    Для того, чтобы оставить комментарий необходимо авторизироваться!
+                </h3>
+            }
+            <hr />
+
+            @foreach (CommentVM comment in comments)
+            {
+                <!-- Single Comment -->
+                <div class="media mb-4">
+                    <img class="d-flex mr-3 rounded-circle" style="width:50px; height: 50px;" src="@Url.Content(comment.Avatar)" alt="">
+                    <div class="media-body">
+                        <h5 class="mt-0">@comment.UserName</h5>
+                        @comment.Message
+                        <blockquote class="blockquote mb-0 mt-2">
+                            <p>@comment.CommentDate.ToString("dddd, dd MMMM yyyy").ToUpper()</p>
+                        </blockquote>
+                    </div>
+
+                </div>
+            }
+
+            <!-- Comment with nested comments -->
+            @*<div class="media mb-4">
+                    <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/50x50" alt="">
+                    <div class="media-body">
+                        <h5 class="mt-0">Commenter Name</h5>
+                        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+
+                        <div class="media mt-4">
+                            <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/50x50" alt="">
+                            <div class="media-body">
+                                <h5 class="mt-0">Commenter Name</h5>
+                                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                            </div>
+                        </div>
+
+                        <div class="media mt-4">
+                            <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/50x50" alt="">
+                            <div class="media-body">
+                                <h5 class="mt-0">Commenter Name</h5>
+                                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                            </div>
+                        </div>
+
+                    </div>
+                </div>*@
+
+        </div>
+
+        <div class="col-md-4">
+            <div class="card my-4">
+                <h5 class="card-header">Поиск</h5>
+                <div class="card-body">
+                    @using (Html.BeginForm("Search", "Home", FormMethod.Get))
+                    {
+                        <div class="form-row">
+                            <div class="col-12 col-md-10">
+                                <input type="text" class="form-control form-control-lg" name="SearchText" placeholder="Искать...">
+                            </div>
+                            <div class="col-12 col-md-2">
+                                <button type="submit" class="btn btn-block btn-lg btn-primary"><span class="iconify" data-icon="simple-line-icons:magnifier" data-inline="false"></span></button>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="card my-4">
+                <h5 class="card-header">Категории</h5>
+                <div class="card-body">
+                    <div class="row">
+                        @if (Model.Tags.Count() > 3)
+                        {
+                            <div class="col-lg-6">
+                                <ul class="list-unstyled mb-0">
+                                    @foreach (string tag in Model.Tags.Take(3))
+                                    {
+                                        if (!string.IsNullOrEmpty(tag))
+                                        {
+                                            <li>
+                                                <a href="#">@tag</a>
+                                            </li>
+                                        }
+                                    }
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <ul class="list-unstyled mb-0">
+                                    @foreach (string tag in Model.Tags.Skip(3).Take(3))
+                                    {
+                                        if (!string.IsNullOrEmpty(tag))
+                                        {
+                                            <li>
+                                                <a href="#">@tag</a>
+                                            </li>
+                                        }
+                                    }
+                                </ul>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="col-lg-12 text-center">
+                                @foreach (string tag in Model.Tags)
+                                {
+                                    if (!string.IsNullOrEmpty(tag))
+                                    {
+                                        <a href="#" style="font-size: 20px;" class="ml-1 mr-1"><b>@tag</b></a>
+                                    }
+                                }
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <div class="card my-4">
+                <h5 class="card-header">Об авторе</h5>
+                <div class="card-body">
+                    @if (string.IsNullOrEmpty(user.AboutMe))
+                    {
+                        <p>Данные отсутствуют...</p>
+                    }
+                    else
+                    {
+                        <p>@user.AboutMe</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" id="description" value="@Model.Message" />
+<script>
+    window.onload = function () {
+        document.getElementById('content').innerHTML = document.getElementById('description').value;
+    };
+</script>

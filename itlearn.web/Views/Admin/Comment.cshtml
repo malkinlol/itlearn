@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Lanugage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@inject UserManager<User> _userManager
+@inject ICommentService commentService
+
+@{
+    var user = await _userManager.FindByNameAsync(User.Identity.Name);
+
+    var comments = commentService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.UserId != user.Id)
+        .OrderByDescending(x => x.CommentDate)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Комментраии</h1>
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row m-5">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Пост</th>
+                                    <th>Пользователь</th>
+                                    <th>Сообщение</th>
+                                    <th>Удалить</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (CommentVM comment in comments)
+                                {
+                                    <tr>
+                                        <td>@comment.PostName</td>
+                                        <td>@comment.UserName</td>
+                                        <td>@comment.Message</td>
+                                        <td>
+                                            <a href="/Comment/Delete?commentId=@comment.CommentId">Удалить</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+

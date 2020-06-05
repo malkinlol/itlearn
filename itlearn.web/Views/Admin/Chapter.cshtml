@@ -1,0 +1,74 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@inject IChapterService chapterService
+@{
+    var chapters = chapterService.GetAll()
+        .GetAwaiter().GetResult()
+        .OrderByDescending(x => x.ChapterId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Главы</h1>
+                <br />
+                <a class="btn btn-success" href="/Admin/CreateChapter">Создать</a>
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        @foreach (ChapterVM chapter in chapters)
+                        {
+                            <div class="col-md-4">
+                                <div class="card card-widget">
+                                    <div class="card-header">
+                                        <div class="user-block">
+                                            <h5>@chapter.Name</h5>
+
+                                        </div>
+                                        <div class="card-tools">
+                                            <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                                <ion-icon name="remove-circle-outline" class="fas"></ion-icon>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        @if (chapter.IsEnable)
+                                        {
+                                            <span>Видимость</span> <input type="checkbox" disabled checked class="ml-3" />
+                                        }
+                                        else
+                                        {
+                                            <span>Видимость</span> <input type="checkbox" disabled class="ml-3" />
+                                        }
+                                    </div>
+                                    <div class="card-footer">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/EditChapter?chapterId=@chapter.ChapterId" class="btn btn-block btn-info">Изменить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DeleteChapter?chapterId=@chapter.ChapterId" class="btn btn-block btn-danger">Удалить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DetailChapter?chapterId=@chapter.ChapterId" class="btn btn-block btn-warning">Детали</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+

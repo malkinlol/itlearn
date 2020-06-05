@@ -1,0 +1,63 @@
+﻿@model CourseTheme
+@{
+    ViewData["Title"] = "CourseThemeDetail";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="alert alert-light mt-2 mb-2">
+                <h2>Детали темы: @Model.Title</h2>
+                <input type="hidden" id="description" value="@Model.Description" />
+                <br />
+                <p><b>Время на чтение: </b>@Model.TimeRead минут</p>
+                <p><b>Время создания: </b>@Model.PublishDate.ToShortDateString()</p>
+                <p><b>Время изменения: </b>@Model.UpdateDate.ToShortDateString()</p>
+            </div>
+
+            <div id="content" class="col-md-9">
+
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+    let editor;
+
+    ClassicEditor
+        .create(document.querySelector('#editor'))
+        .then(newEditor => {
+            editor = newEditor;
+        })
+        .catch(error => {
+            console.error(error);
+        });
+
+    function GetDescription() {
+        const editorData = editor.getData();
+
+        document.getElementById('description').setAttribute('value', editorData);
+    }
+</script>
+
+<script>
+    window.onload = function () {
+        let data = document.getElementById('description').value;
+        let fixeddata = '';
+        let fixeddata1 = '';
+        let fixeddata2 = '';
+        console.log(data);
+        if (data.includes('oembed')) {
+            fixeddata = data.replace(new RegExp('<oembed url', 'g'), '<iframe src')
+            fixeddata1 = fixeddata.replace(new RegExp("watch\\?v=", 'g'), 'embed/')
+            fixeddata2 = fixeddata1.replace(new RegExp('></oembed', 'g'), ' width="960" height="540" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="video"></iframe');
+        } else {
+            fixeddata2 = data;
+        }
+
+        document.getElementById('content').innerHTML = fixeddata2;
+    };
+</script>

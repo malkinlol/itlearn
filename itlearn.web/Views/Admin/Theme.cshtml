@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@inject IThemeService themeService
+@{
+    var themes = themeService.GetAll()
+        .GetAwaiter().GetResult()
+        .OrderByDescending(x => x.ThemeId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Темы</h1>
+                <br />
+                <a class="btn btn-success" href="/Admin/CreateTheme">Создать</a>
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        @foreach (ThemeVM theme in themes)
+                        {
+                            <div class="col-md-4">
+                                <div class="card card-widget">
+                                    <div class="card-header">
+                                        <div class="user-block">
+                                            <h5>@theme.Name</h5>
+                                        </div>
+                                        <div class="card-tools">
+                                            <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                                <ion-icon name="remove-circle-outline" class="fas"></ion-icon>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        @if (theme.IsEnable)
+                                        {
+                                            <span>Видимость</span> <input type="checkbox" disabled checked class="ml-3" />
+                                        }
+                                        else
+                                        {
+                                            <span>Видимость</span> <input type="checkbox" disabled class="ml-3" />
+                                        }
+                                    </div>
+                                    <div class="card-footer">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/EditTheme?themeId=@theme.ThemeId" class="btn btn-block btn-info">Изменить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DeleteTheme?themeId=@theme.ThemeId" class="btn btn-block btn-danger">Удалить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DetailTheme?themeId=@theme.ThemeId" class="btn btn-block btn-warning">Детали</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+

@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject ILanguageService languageService
+@{
+    var languages = languageService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.IsEnable)
+        .ToList();
+}
+
+
+<!-- Icons Grid -->
+<section class="features-icons bg-light text-center pt-5" style="height: 92vh; width: 100%;position:relative; background-image: url('/images/backgrounds/home.jpg'); background-repeat: no-repeat; background-size: cover;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-9 mx-auto">
+                <h1 class="mb-5 display-4 text-white" style="font-weight: 600">Ищите в нашей базе языки программирования и реализуйте себя!</h1>
+            </div>
+            <div class="col-md-12 col-lg-12 col-xl-7 mx-auto">
+                @using (Html.BeginForm("Search", "Home", FormMethod.Get))
+                {
+                    <div class="form-row">
+                        <div class="col-12 col-md-10 mb-2">
+                            <input type="text" class="form-control form-control-lg" name="SearchText" autocomplete="off" placeholder="Искать...">
+                        </div>
+                        <div class="col-12 col-md-2">
+                            <button type="submit" class="btn btn-block btn-lg btn-warning text-white "><span class="iconify" data-icon="simple-line-icons:magnifier" data-inline="false"></span></button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="container mt-3">
+            <div class="row">
+                <div class="col-md-12 col-lg-12 col-xl-7 mx-auto">
+                    <div class="btn-group" role="group">
+                        @foreach (LanguageVM lang in languages)
+                        {
+                            <a href="/Home/Language?languageId=@lang.LanguageId" class="btn m-1 btn-lg btn-warning text-white">@lang.Name</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>

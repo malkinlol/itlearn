@@ -1,0 +1,62 @@
+﻿@model ChapterVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject IThemeService themeService
+@{
+    var themes = themeService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.ChapterId == Model.ChapterId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="alert alert-light mt-2 mb-2">
+                <h2>Описание главы: @Model.Name</h2>
+                <hr />
+                <a href="/Admin/EditChapter?chapterId=@Model.ChapterId" class="btn btn-warning">Изменить</a>
+                <a class="btn btn-success" href="/Admin/CreateTheme?chapterId=@Model.ChapterId">Добавить тему</a>
+                <button type="button" data-toggle="modal" data-target="#deleteModal" class="btn btn-danger">Удалить</button>
+            </div>
+
+            <div>
+                @if (themes.Count != 0)
+                {
+                    <ul>
+                        @foreach (ThemeVM theme in themes)
+                        {
+                            <li><a href="/Admin/DetailTheme?themeId=@theme.ThemeId">@theme.Name</a></li>
+                        }
+                    </ul>
+                }
+
+            </div>
+
+
+        </div>
+    </section>
+</div>
+
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Удаление</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверены, что хотите удалить язык программирования: @Model.Name</p>
+                @using (Html.BeginForm("DeleteChapter", "Admin", FormMethod.Get))
+                {
+                    <input type="hidden" name="ChapterId" value="@Model.ChapterId" />
+
+                    <input type="submit" class="btn btn-danger" value="Удалить" />
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,47 @@
+﻿@model LoginVM
+
+@{
+    Layout = "~/Views/Shared/_AuthorizationLayout.cshtml";
+}
+@using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "login100-form" }))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(model => model.ReturnUrl)
+    <span class="login100-form-title p-b-43">
+        Авторизация
+    </span>
+
+    <div class="text-center font-italic mb-3">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        <br />
+        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="wrap-input100 ">
+        <input class="input100" type="text" name="Email" autocomplete="off">
+        <span class="focus-input100"></span>
+        <span class="label-input100">Email</span>
+    </div>
+    <div class="wrap-input100">
+        <input class="input100" type="password" name="Password">
+        <span class="focus-input100"></span>
+        <span class="label-input100">Пароль</span>
+    </div>
+    <div class="container-login100-form-btn">
+        <button type="submit" class="login100-form-btn">
+            Войти
+        </button>
+    </div>
+    <div class="text-center p-t-46 p-b-20">
+        <a href="/Account/Register" class="txt2" style="text-decoration:none">
+            Регистрация
+        </a>
+    </div>
+}
+
+<div class="login100-more text-center" style="background-image: url('/images/backgrounds/auth.gif');">
+
+</div>

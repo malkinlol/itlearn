@@ -1,0 +1,81 @@
+﻿@model ChapterVM
+
+@inject IThemeService themeService
+@inject ApplicationContext _context
+@inject UserManager<User> _userManager
+@{
+    var themes = themeService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.ChapterId == Model.ChapterId && x.IsEnable)
+        .ToList();
+
+    var managements = new List<Management>();
+
+    if (User.Identity.IsAuthenticated)
+    {
+        var user = await _userManager.FindByNameAsync(User.Identity.Name);
+
+        managements = _context.Managements
+            .Where(x => x.UserId == user.Id)
+            .ToList();
+    }
+}
+
+<style>
+    a.disabled {
+        pointer-events: none;
+        cursor: default;
+        color: #808080;
+    }
+
+    li.disabled {
+        color: #808080;
+    }
+</style>
+
+<div id="accordionExample">
+    <div class="card shadow" style="border: none;">
+        <div class="card-header" id="theme-@Model.ChapterId">
+            <h2 class="mb-0 text-center">
+                <button class="btn" style="color:#7233ce" type="button" data-toggle="collapse" data-target="#collapse-@Model.ChapterId" aria-expanded="true" aria-controls="collapseOne">
+                    Глава: @Model.Name
+                </button>
+            </h2>
+        </div>
+
+        <div id="collapse-@Model.ChapterId" class="collapse show" aria-labelledby="theme-@Model.ChapterId" data-parent="#accordionExample">
+            <div class="card-body">
+                <ol>
+                    @for (int i = 0; i < themes.Count; i++)
+                    {
+                        if (i == 0)
+                        {
+                            <li><a class="" href="/Home/Theme?chapterId=@themes[i].ChapterId&themeId=@themes[i].ThemeId&index=@i">@themes[i].Name</a></li>
+                            continue;
+                        }
+
+                        if (managements.Count != 0)
+                        {
+                            Management m = managements.Where(x => x.ThemeId == themes[i - 1].ThemeId).FirstOrDefault();
+
+                            if (m != null && m.IsEnable)
+                            {
+                                <li><a class="" href="/Home/Theme?chapterId=@themes[i].ChapterId&themeId=@themes[i].ThemeId&index=@i">@themes[i].Name</a></li>
+                            }
+                            else
+                            {
+                                <li class="disabled"><a class="disabled" href="/Home/Theme?chapterId=@themes[i].ChapterId&themeId=@themes[i].ThemeId&index=@i">@themes[i].Name</a></li>
+                            }
+                        }
+                        else
+                        {
+                            <li class="disabled"><a class="disabled" href="/Home/Theme?chapterId=@themes[i].ChapterId&themeId=@themes[i].ThemeId&index=@i">@themes[i].Name</a></li>
+                        }
+                        ///Home/Theme?themeId=@Model.ThemeId&index=@(Model.Index - 1)&chapterId=@chapter.ChapterId
+                    }
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+

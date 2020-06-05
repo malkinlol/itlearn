@@ -1,0 +1,51 @@
+﻿@model TestVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject IQuestionService questionService
+@inject ITestService testService
+@inject IThemeService themeService
+@{
+    var questions = questionService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.TestId == Model.TestId)
+        .ToList();
+
+    var themeName = themeService.GetById(Model.ThemeId)
+        .GetAwaiter().GetResult()
+        .Name;
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="alert alert-light mt-2 mb-2">
+                <h2>Тест на тему: @themeName</h2>
+                @if (await testService.IsCorrectTest(Model.TestId))
+                {
+                    <span class="text-success"><b>CORRECT</b></span>
+                }
+                else
+                {
+                    <span class="text-danger"><b>INCORRECT</b></span>
+                }
+                <hr />
+                <a href="/Admin/EditTest?testId=@Model.TestId" class="btn btn-warning">Изменить</a>
+                <a href="/Admin/CreateQuestion?testId=@Model.TestId" class="btn btn-success">Добавить вопрос</a>
+            </div>
+
+            <div>
+                @if (questions.Count != 0)
+                {
+                    <ul>
+                        @foreach (QuestionVM question in questions)
+                        {
+                            <li><a href="/Admin/DetailQuestion?questionId=@question.QuestionId">@question.SomeQuestion</a></li>
+                        }
+                    </ul>
+                }
+
+            </div>
+        </div>
+    </section>
+</div>

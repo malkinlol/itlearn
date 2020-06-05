@@ -1,0 +1,202 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Course";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject UserManager<User> _userManager
+
+@{
+    var user = await _userManager.FindByEmailAsync(User.Identity.Name);
+    var level = 1;
+
+    if (user.Experience < 100)
+        level = 1;
+    else if (user.Experience >= 100 && user.Experience < 200)
+        level = 2;
+    else if (user.Experience >= 200 && user.Experience < 300)
+        level = 3;
+    else if (user.Experience >= 300 && user.Experience < 400)
+        level = 4;
+    else if (user.Experience >= 400 && user.Experience < 500)
+        level = 5;
+}
+
+<style>
+    .course-link:hover {
+        border-left: 3px solid #ffffff;
+    }
+
+    div.img-container {
+        position: relative
+    }
+
+        div.img-container img {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            border-radius: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+    .dot {
+        height: 50px;
+        width: 50px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 50%;
+        border: 6px solid rgb(255, 255, 255);
+        opacity: 0.7;
+        display: inline-block;
+        position: relative;
+        top: 160px;
+        left: 145px;
+    }
+
+        .dot span {
+            margin: 0;
+            position: absolute;
+            font-size: 18px;
+            top: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+    .lable {
+        font-size: 14px;
+        background: #ad87de;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+
+    .lable-success {
+        font-size: 14px;
+        background: #28ff5a;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+
+    .lable-warning {
+        font-size: 14px;
+        background: #ff6a00;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3" style="height: 100vh; background-color: #000000; padding-left: 0px; padding-right: 0px;">
+            <div class="list-group " style="background: none;">
+                <div class="img-container list-group-item" style="        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)), url(/images/default/editprofile.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+        width: 100%;
+        position: relative;
+        margin-top: -1px;
+        border: none;
+    ">
+                    @if (!string.IsNullOrEmpty(user.Avatar))
+                    {
+                        <img src="@Url.Content(user.Avatar)" style="width: 130px; height: 130px;" />
+                    }
+                    else
+                    {
+                        <img src="~/images/default/default-person.svg" style="width: 130px; height: 130px;" />
+                    }
+                    <div>
+                        <span class="dot text-center">
+                            <span style="color: rgb(255, 255, 255)">@level</span>
+                        </span>
+                    </div>
+                </div>
+                <a href="/Account/Course" class=" course-link list-group-item text-white list-group-item-action text-uppercase " style="background: none;">Курсы на изучении</a>
+                <a href="/Account/MyCourse" class="course-link  list-group-item text-white list-group-item-action text-uppercase active" style="background: none; border: 1px solid #ffffff ">Мои курсы</a>
+                <a href="/Account/CompleteCourse" class="course-link  list-group-item text-white list-group-item-action text-uppercase " style="background: none; ">Законченные курсы</a>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="container-fluid">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <p class="display-1" style="font-size: 35px">Мои курсы</p>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <a href="/Account/CreateCourse" class="btn btn-lg btn-outline-success">Создать курс</a>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-md-12">
+                        @if (Model.Count != 0)
+                        {
+                            foreach (Course course in Model)
+                            {
+                                <div class="card shadow m-5">
+                                    <div class="row no-gutters">
+                                        <div class="col-md-3">
+                                            <img src="@Url.Content(course.Avatar)" class="m-4" style="height: 200px; width: 250px;" alt="...">
+                                        </div>
+                                        <div class="col-md-9">
+                                            <div class="card-body">
+                                                <div class="row">
+                                                    <div class="col-md-9 pl-5">
+                                                        <span class="small">
+                                                            <svg class="svg-icon" viewBox="0 0 20 20" width="1.5em" height="1.5em">
+                                                                <path d="M10,10.9c2.373,0,4.303-1.932,4.303-4.306c0-2.372-1.93-4.302-4.303-4.302S5.696,4.223,5.696,6.594C5.696,8.969,7.627,10.9,10,10.9z M10,3.331c1.801,0,3.266,1.463,3.266,3.263c0,1.802-1.465,3.267-3.266,3.267c-1.8,0-3.265-1.465-3.265-3.267C6.735,4.794,8.2,3.331,10,3.331z"></path>
+                                                                <path d="M10,12.503c-4.418,0-7.878,2.058-7.878,4.685c0,0.288,0.231,0.52,0.52,0.52c0.287,0,0.519-0.231,0.519-0.52c0-1.976,3.132-3.646,6.84-3.646c3.707,0,6.838,1.671,6.838,3.646c0,0.288,0.234,0.52,0.521,0.52s0.52-0.231,0.52-0.52C17.879,14.561,14.418,12.503,10,12.503z"></path>
+                                                            </svg>
+                                                            Eduard Popkov
+                                                        </span>
+                                                        <br />
+                                                        <p>
+                                                            <svg class="bi bi-person-fill" width="1em" height="1em" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M14.999,8.543c0,0.229-0.188,0.417-0.416,0.417H5.417C5.187,8.959,5,8.772,5,8.543s0.188-0.417,0.417-0.417h9.167C14.812,8.126,14.999,8.314,14.999,8.543 M12.037,10.213H5.417C5.187,10.213,5,10.4,5,10.63c0,0.229,0.188,0.416,0.417,0.416h6.621c0.229,0,0.416-0.188,0.416-0.416C12.453,10.4,12.266,10.213,12.037,10.213 M14.583,6.046H5.417C5.187,6.046,5,6.233,5,6.463c0,0.229,0.188,0.417,0.417,0.417h9.167c0.229,0,0.416-0.188,0.416-0.417C14.999,6.233,14.812,6.046,14.583,6.046 M17.916,3.542v10c0,0.229-0.188,0.417-0.417,0.417H9.373l-2.829,2.796c-0.117,0.116-0.71,0.297-0.71-0.296v-2.5H2.5c-0.229,0-0.417-0.188-0.417-0.417v-10c0-0.229,0.188-0.417,0.417-0.417h15C17.729,3.126,17.916,3.313,17.916,3.542 M17.083,3.959H2.917v9.167H6.25c0.229,0,0.417,0.187,0.417,0.416v1.919l2.242-2.215c0.079-0.077,0.184-0.12,0.294-0.12h7.881V3.959z"></path>
+                                                            </svg> @course.CourseComments.Count(x => x.isAdmin) Комментарии админа | @course.CourseComments.Count(x => !x.isAdmin) Комментарии пользователей
+                                                        </p>
+                                                        <p class="mt-4"><b>@course.Title</b></p>
+                                                        <br />
+                                                        <p class="">
+                                                            @course.ShortDesciption
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <span class="lable">+100 опыта</span>
+                                                        <br />
+                                                        @if (course.Approved)
+                                                        {
+                                                            <span class="lable-success ">Подтвержден</span>
+                                                            <br />
+                                                        }
+                                                        else
+                                                        {
+                                                            <span class="lable-warning">В ожидании</span>
+                                                            <br />
+                                                        }
+                                                        <a href="/Account/DetailCourse?courseId=@course.CourseId" class="btn btn-info mt-2" style="width: 100%">Детали</a>
+                                                        <br />
+                                                        <a href="/Account/EditCourse?courseId=@course.CourseId" class="btn btn-warning mt-2" style="width: 100%">Изменить</a>
+                                                        <br />
+                                                        <a href="/Account/DeleteCourse?courseId=@course.CourseId" class="btn btn-danger mt-2" style="width: 100%">Удалить</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

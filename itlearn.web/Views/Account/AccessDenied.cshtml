@@ -1,0 +1,17 @@
+﻿@model ReturnUrlResponse
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron mt-4">
+    <h1>Error 403</h1>
+    <h3>Forbidden</h3>
+    <hr />
+    @using (@Html.BeginForm("Logout", "Account", FormMethod.Post))
+    {
+        <input type="submit" class="btn btn-primary text-uppercase" value="Logout" />
+    }
+</div>
+
+

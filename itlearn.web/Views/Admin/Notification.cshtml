@@ -1,0 +1,89 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject INotificationService notificationService
+@inject ILanguageService languageService
+@{
+    var notifications = await notificationService.GetAll();
+    var languages = languageService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.IsEnable)
+        .Select(x => x.Name)
+        .ToList();
+}
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Уведомления</h1>
+                <br />
+                <button data-toggle="modal" data-target="#createNotification" class="btn btn-success">Создать</button>
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        @foreach (NotificationVM notification in notifications)
+                        {
+                            <div class="col-md-4">
+                                <div class="card card-widget">
+                                    <div class="card-body">
+                                        <p>@notification.Message</p>
+                                        <br />
+                                        <p>@notification.NotificationDate.ToShortDateString()</p>
+                                    </div>
+                                    <div class="card-footer">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DeleteNotification?notificationId=@notification.NotificationId" class="btn btn-block btn-danger">Удалить</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+
+<div class="modal fade" id="createNotification" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Создание уведомления</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                @using (Html.BeginForm("CreateNotification", "Admin", FormMethod.Post))
+                {
+                    <div class="form-group">
+                        <label>Язык программирования</label>
+                        <select class="form-control" name="Language" required>
+                            @foreach(string lang in languages)
+                            {
+                                <option value="@lang">@lang</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Сообщение</label>
+                        <input type="text" name="Message" class="form-control" required />
+                    </div>
+
+                    <input type="submit" class="btn btn-primary" value="Создать" />
+                }
+            </div>
+        </div>
+    </div>
+</div>

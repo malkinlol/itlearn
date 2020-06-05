@@ -1,0 +1,70 @@
+﻿@model QuestionVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject IAnswerService answerService
+@inject IQuestionService questionService
+@{
+    var answers = answerService.GetAll()
+        .GetAwaiter().GetResult()
+        .Where(x => x.QuestionId == Model.QuestionId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="alert alert-light mt-2 mb-2">
+                <h2>Вопрос: @Model.SomeQuestion</h2>
+                <p>
+                    @if (await questionService.IsCorrectQuestion(Model.QuestionId))
+                    {
+                        <span class="text-success"><b>CORRECT</b></span>
+                    }
+                    else
+                    {
+                        <span class="text-danger"><b>INCORRECT</b></span>
+                    }
+                </p>
+                <hr />
+                <a href="/Admin/EditQuestion?questionId=@Model.QuestionId" class="btn btn-warning">Изменить</a>
+                <a href="/Admin/CreateAnswer?questionId=@Model.QuestionId" class="btn btn-success">Добавить ответ</a>
+            </div>
+
+            @if (!string.IsNullOrEmpty(Model.Avatar))
+            {
+                <div class="mt-5 mb-5" >
+                    <img  src="@Url.Content(Model.Avatar)" style="height: 300px; width: 700px"/>
+                </div>
+                <hr />
+
+            }
+
+            <div>
+                @if (answers.Count != 0)
+                {
+                    <ul>
+                        @foreach (AnswerVM answer in answers)
+                        {
+                            <li>
+                                <a href="/Admin/DetailAnswer?answerId=@answer.AnswerId">
+                                    @answer.SomeAnswer :
+
+                                    @if (answer.IsRight)
+                                    {
+                                        <span>Правильный</span>
+                                    }
+                                    else
+                                    {
+                                        <span>Неправильный</span>
+                                    }
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                }
+
+            </div>
+        </div>
+    </section>
+</div>

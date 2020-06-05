@@ -1,0 +1,1283 @@
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.exe
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.deps.json
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.json
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.dev.json
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.pdb
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csprojAssemblyReference.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.Manifest.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.xml
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfoInputs.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfo.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.input.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.output.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorCoreGenerate.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.dll
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.pdb
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CopyComplete
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cache
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditProfile.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Education.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditEducation.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateEducation.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Job.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateJob.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+D:\University\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthorizationLayout.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_HeaderPartial.cshtml.g.cs
+D:\University\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\StatusCode\Index.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.exe
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.deps.json
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.json
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.dev.json
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csprojAssemblyReference.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.Manifest.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.xml
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfoInputs.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfo.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.input.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.output.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorCoreGenerate.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateEducation.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateJob.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditEducation.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditProfile.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Education.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Job.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_HeaderPartial.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthorizationLayout.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\StatusCode\Index.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CopyComplete
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditJob.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Course.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyCourse.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CompleteCourse.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourse.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailCourse.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourse.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourseTheme.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourseTheme.cshtml.g.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.exe
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.deps.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.dev.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csprojAssemblyReference.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.Manifest.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.xml
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfoInputs.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfo.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.input.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.output.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorCoreGenerate.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CompleteCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Course.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourseTheme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateEducation.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateJob.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourseTheme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditEducation.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditJob.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditProfile.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Education.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Job.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_HeaderPartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthorizationLayout.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\StatusCode\Index.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CopyComplete
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Answer.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Chapter.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Comment.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateAnswer.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateChapter.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateLanguage.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateQuestion.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTest.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTheme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailAnswer.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailChapter.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailLanguage.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailQuestion.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTest.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTheme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditChapter.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditLanguage.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditQuestion.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTest.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTheme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserRole.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Language.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notification.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Question.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Test.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Theme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserView.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Detail.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Update.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Compile.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Discussion.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeIndex.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Language.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Learn.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterPartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterShowPartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Theme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Comment.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Discussion.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AchievementPartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AdvicePartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_StoryPartial.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Course.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseDetail.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseThemeDetail.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseCommentCreate.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowCourse.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowUserProfile.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\CourseTheme.cshtml.g.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ThemePartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.exe
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.deps.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.dev.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csprojAssemblyReference.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.Manifest.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.xml
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfoInputs.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfo.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.input.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.output.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorCoreGenerate.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Comment.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CompleteCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Course.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourseTheme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateEducation.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateJob.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Discussion.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourseTheme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditEducation.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditJob.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditProfile.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Education.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Job.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AchievementPartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AdvicePartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_StoryPartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowUserProfile.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Answer.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Chapter.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Comment.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Course.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseCommentCreate.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseDetail.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseThemeDetail.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateAnswer.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateChapter.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateLanguage.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateQuestion.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTest.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTheme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailAnswer.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailChapter.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailLanguage.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailQuestion.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTest.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTheme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditChapter.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditLanguage.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditQuestion.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTest.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTheme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserRole.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Language.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notification.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Question.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Test.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Theme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserView.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Compile.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\CourseTheme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Discussion.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeIndex.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Language.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Learn.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterPartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterShowPartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ThemePartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchCourse.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Theme.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Detail.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Update.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_HeaderPartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthorizationLayout.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\StatusCode\Index.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CopyComplete
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Leaders.cshtml.g.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Stats.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\libman.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.exe
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.deps.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.dev.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MailKit.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MimeKit.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csprojAssemblyReference.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfoInputs.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfo.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CoreCompileInputs.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.input.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.output.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorCoreGenerate.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Comment.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CompleteCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Course.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourseTheme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateEducation.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateJob.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Discussion.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourseTheme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditEducation.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditJob.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditProfile.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Education.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Job.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Leaders.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AchievementPartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AdvicePartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_StoryPartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowUserProfile.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Stats.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Answer.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Chapter.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Comment.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Course.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseCommentCreate.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseDetail.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseThemeDetail.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateAnswer.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateChapter.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateLanguage.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateQuestion.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTest.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTheme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailAnswer.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailChapter.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailLanguage.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailQuestion.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTest.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTheme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditChapter.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditLanguage.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditQuestion.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTest.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTheme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserRole.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Language.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notification.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Question.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Test.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Theme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserView.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Compile.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\CourseTheme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Discussion.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeIndex.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Language.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Learn.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterPartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterShowPartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ThemePartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchCourse.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Theme.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Detail.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Update.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_HeaderPartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthorizationLayout.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\StatusCode\Index.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CopyComplete
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.Manifest.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.xml
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.genruntimeconfig.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\libman.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.exe
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.deps.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.runtimeconfig.dev.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.bll.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\bin\Debug\netcoreapp3.1\itlearn.dal.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csprojAssemblyReference.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.Manifest.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\staticwebassets\itlearn.web.StaticWebAssets.xml
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorAssemblyInfo.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfoInputs.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.AssemblyInfo.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.input.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.TagHelpers.output.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorCoreGenerate.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Comment.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CompleteCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Course.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateCourseTheme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateEducation.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\CreateJob.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Discussion.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditCourseTheme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditEducation.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditJob.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditProfile.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Education.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Job.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Leaders.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AchievementPartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_AdvicePartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Partial\_StoryPartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ShowUserProfile.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Stats.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Answer.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Chapter.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Comment.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Course.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseCommentCreate.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseDetail.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CourseThemeDetail.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateAnswer.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateChapter.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateLanguage.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateQuestion.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTest.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTheme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailAnswer.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailChapter.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailLanguage.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailQuestion.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTest.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DetailTheme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditChapter.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditLanguage.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditQuestion.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTest.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTheme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserRole.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Language.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notification.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Question.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Test.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Theme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserView.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Compile.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\CourseTheme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Discussion.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeIndex.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Language.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Learn.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterPartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ChapterShowPartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_ThemePartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchCourse.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Theme.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Detail.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Post\Update.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_HeaderPartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthorizationLayout.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\StatusCode\Index.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.RazorTargetAssemblyInfo.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.Views.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.csproj.CopyComplete
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\itlearn.web.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.web\obj\Debug\netcoreapp3.1\Razor\Views\Account\QA.cshtml.g.cs

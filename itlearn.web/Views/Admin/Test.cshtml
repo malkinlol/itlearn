@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@inject ITestService testService
+@{
+    var tests = testService.GetAll()
+        .GetAwaiter().GetResult()
+        .OrderByDescending(x => x.TestId)
+        .ToList();
+}
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div>
+                <h1>Тесты</h1>
+                <br />
+                @*<a class="btn btn-success" href="/Admin/CreateTest">Создать</a>*@
+                <hr />
+            </div>
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        @foreach (TestVM test in tests)
+                        {
+                            <div class="col-md-4">
+                                <div class="card card-widget">
+                                    <div class="card-header">
+                                        <div class="user-block">
+                                            <h5>Тема: @test.ThemeName</h5>
+                                        </div>
+                                        <div class="card-tools">
+                                            <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                                <ion-icon name="remove-circle-outline" class="fas"></ion-icon>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        @if (await testService.IsCorrectTest(test.TestId))
+                                        {
+                                            <span>Валидность</span> <input type="checkbox" disabled checked class="ml-3" />
+                                        }
+                                        else
+                                        {
+                                            <span>Валидность</span> <input type="checkbox" disabled class="ml-3" />
+                                        }
+                                    </div>
+                                    <div class="card-footer">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                @*<div class="col-4 ">
+                                                    <a href="/Admin/EditTest?testId=@test.TestId" class="btn btn-block btn-info">Изменить</a>
+                                                </div>*@
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DeleteTest?testId=@test.TestId" class="btn btn-block btn-danger">Удалить</a>
+                                                </div>
+                                                <div class="col-4 ">
+                                                    <a href="/Admin/DetailTest?testId=@test.TestId" class="btn btn-block btn-warning">Детали</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</div>
+

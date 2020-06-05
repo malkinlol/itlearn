@@ -1,0 +1,35 @@
+﻿@model AnswerVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@inject IQuestionService questionService
+@{
+
+    var questionName = questionService.GetById(Model.QuestionId)
+        .GetAwaiter().GetResult()
+        .SomeQuestion;
+}
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="alert alert-light mt-2 mb-2">
+                <h2>Вопрос: @questionName</h2>
+                <hr />
+                <p>
+                    Ответ: @Model.SomeAnswer
+                    @if (Model.IsRight)
+                    {
+                        <span class="text-success ml-2">Правильный</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger ml-2">Правильный</span>
+                    }
+                </p>
+                <a href="/Admin/EditAnswer?answerId=@Model.AnswerId" class="btn btn-warning">Изменить</a>
+            </div>
+        </div>
+    </section>
+</div>

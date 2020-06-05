@@ -1,0 +1,49 @@
+D:\University\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+D:\University\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+D:\University\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+D:\University\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+D:\University\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+D:\University\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+D:\University\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+D:\University\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+E:\Projects\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+E:\Projects\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+E:\Projects\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
+D:\University\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+E:\Projects\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csproj.CoreCompileInputs.cache
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+F:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.deps.json
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\bin\Debug\netcoreapp3.1\itlearn.model.pdb
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.csprojAssemblyReference.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfoInputs.cache
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.AssemblyInfo.cs
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.dll
+E:\New folder\qwe\qwe\qwe\itlearn\itlearn.model\obj\Debug\netcoreapp3.1\itlearn.model.pdb
