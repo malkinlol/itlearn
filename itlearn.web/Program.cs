@@ -24,7 +24,7 @@ namespace itlearn.web
             using (var scope = host.Services.CreateScope())
             {
                 var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationContext>();
-                await dbContext.Database.MigrateAsync();
+                //await dbContext.Database.MigrateAsync();
 
                 var services = scope.ServiceProvider;
                 try
